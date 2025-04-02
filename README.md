@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![digihunch's GitHub stats](https://github-readme-stats.vercel.app/api?username=digihunch&show_icons=true&theme=radical&rank_icon=github&custom_title=GitHub&nbsp;Stats&line_height=23.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digihunch&layout=donut&theme=radical&hide_title=true)
+![digihunch's GitHub stats](https://github-readme-stats.vercel.app/api?username=digihunch&show_icons=true&theme=solarized-light&rank_icon=github&custom_title=GitHub&nbsp;Stats&line_height=23.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digihunch&layout=donut&theme=solarized-light&hide_title=true)
 
